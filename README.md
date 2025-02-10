@@ -2,6 +2,10 @@
 
 ###
 
+<img align="left" height="75" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+
+###
+
 <div align="center">
   <a href="https://www.instagram.com/necatiulkr/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=216e39&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -42,13 +46,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NecatiUlker&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=NecatiUlker&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&date_format=n/j%5B/Y%5D" height="150" alt="streak graph"  />
 </div>
-
-###
-
-<img align="left" height="150" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
 
 ###

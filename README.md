@@ -38,7 +38,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+<img align="left" height="100" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
 
 ###
 
